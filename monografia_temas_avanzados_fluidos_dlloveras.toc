@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}% 
+\contentsline {section}{\numberline {1.1}Corona Solar}{1}% 
+\contentsline {section}{\numberline {1.2}Viento solar}{1}% 
+\contentsline {section}{\numberline {1.3}Propuesta para calentamiento y aceleraci\IeC {\'o}n del plasma coronal}{3}% 
+\contentsline {chapter}{\numberline {2}Magnetohydrodin\IeC {\'a}mica}{5}% 
+\contentsline {section}{\numberline {2.1}Ecuaciones MHD}{6}% 
+\contentsline {section}{\numberline {2.2}Ondas de Alfv\IeC {\'e}n}{8}% 
+\contentsline {subsection}{\numberline {2.2.1}Variables de Els\IeC {\"a}sser}{10}% 
+\contentsline {section}{\numberline {2.3}Cascada de energ\IeC {\'\i }a de Richardson y microescalas de Kolmogorov}{11}% 
+\contentsline {subsection}{\numberline {2.3.1}Espectro de Kraichnan}{13}% 
+\contentsline {chapter}{\numberline {3}Propagaci\IeC {\'o}n, reflexi\IeC {\'o}n y disipaci\IeC {\'o}n de ondas de Alfv\IeC {\'e}n}{15}% 
+\contentsline {section}{\numberline {3.1}Ecuaci\IeC {\'o}n de WKB para las densidades de energ\IeC {\'\i }a de las ondas turbulentas de Alfv\IeC {\'e}n}{15}% 
+\contentsline {section}{\numberline {3.2}Tasa de Disipaci\IeC {\'o}n de Ondas de Alfv\IeC {\'e}n}{17}% 
+\contentsline {section}{\numberline {3.3}Modelado MHD con calentamiento por disipaci\IeC {\'o}n de ondas de Alfv\IeC {\'e}n}{20}% 

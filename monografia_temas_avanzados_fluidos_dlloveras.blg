@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: monografia_temas_avanzados_fluidos_dlloveras.aux
+The style file: spr-mp-sola.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibliografia.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 19 entries,
+            6031 wiz_defined-function locations,
+            1171 strings with 12796 characters,
+and the built_in function-call counts, 99952 in all, are:
+= -- 14414
+> -- 542
+< -- 26
++ -- 2845
+- -- 177
+* -- 6500
+:= -- 18028
+add.period$ -- 52
+call.type$ -- 19
+change.case$ -- 102
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 702
+empty$ -- 5928
+format.name$ -- 545
+if$ -- 23603
+int.to.chr$ -- 1
+int.to.str$ -- 8
+missing$ -- 0
+newline$ -- 340
+num.names$ -- 117
+pop$ -- 428
+preamble$ -- 1
+purify$ -- 83
+quote$ -- 0
+skip$ -- 8406
+stack$ -- 0
+substring$ -- 14949
+swap$ -- 252
+text.length$ -- 302
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 585
+warning$ -- 0
+while$ -- 544
+width$ -- 0
+write$ -- 415
